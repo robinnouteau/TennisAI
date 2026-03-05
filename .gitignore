@@ -1,0 +1,15 @@
+scripts/models/TrackNetV5-SDK-main/data/benchmark/Data.zip
+scripts/models/TrackNetV5-SDK-main/data/benchmark/Readme.docx
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game1/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game2/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game3/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game4/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game5/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game6/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game7/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game8/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game9/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/game10/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/gts/
+scripts/models/TrackNetV5-SDK-main/data/benchmark/labels_context_train.csv
+scripts/models/TrackNetV5-SDK-main/data/benchmark/labels_context_val.csv
