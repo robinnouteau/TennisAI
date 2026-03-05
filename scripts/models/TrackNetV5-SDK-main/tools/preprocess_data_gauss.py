@@ -111,9 +111,9 @@ def process_data(input_dir: Path, output_dir: Path, mode: str, config: dict):
 
             # 添加前一帧和后一帧的visibility和status
             clip_df['visibility_prev'] = clip_df['visibility'].shift(1)
-            clip_df['status_prev'] = clip_df['status'].shift(1)
+           #clip_df['status_prev'] = clip_df['status'].shift(1)
             clip_df['visibility_next'] = clip_df['visibility'].shift(-1)
-            clip_df['status_next'] = clip_df['status'].shift(-1)
+            #clip_df['status_next'] = clip_df['status'].shift(-1)
 
         # 删除首尾帧（因为它们没有完整的前后帧）
         clip_df = clip_df.iloc[1:-1]
@@ -138,7 +138,7 @@ def process_data(input_dir: Path, output_dir: Path, mode: str, config: dict):
             'gt_path_prev', 'gt_path', 'gt_path_next',  # 三张对应的gt图路径
             'x_prev', 'y_prev', 'x-coordinate', 'y-coordinate', 'x_next', 'y_next',  # 三个x,y坐标
             'visibility_prev', 'visibility', 'visibility_next',  # 三个visibility
-            'status_prev', 'status', 'status_next'  # 三个status
+            #'status_prev', 'status', 'status_next'  # 三个status
         ]
 
     final_df = master_df[final_columns]
@@ -148,7 +148,7 @@ def process_data(input_dir: Path, output_dir: Path, mode: str, config: dict):
         'x-coordinate': 'x_current',
         'y-coordinate': 'y_current',
         'visibility': 'visibility_current',
-        'status': 'status_current'
+        #'status': 'status_current'
     }
     final_df = final_df.rename(columns=column_rename)
 
@@ -177,8 +177,8 @@ def process_data(input_dir: Path, output_dir: Path, mode: str, config: dict):
         f"Coordinates: ({df_train.iloc[0]['x_prev']}, {df_train.iloc[0]['y_prev']}), ({df_train.iloc[0]['x_current']}, {df_train.iloc[0]['y_current']}), ({df_train.iloc[0]['x_next']}, {df_train.iloc[0]['y_next']})")
     print(
         f"Visibility: {df_train.iloc[0]['visibility_prev']}, {df_train.iloc[0]['visibility_current']}, {df_train.iloc[0]['visibility_next']}")
-    print(
-        f"Status: {df_train.iloc[0]['status_prev']}, {df_train.iloc[0]['status_current']}, {df_train.iloc[0]['status_next']}")
+    #print(
+        #f"Status: {df_train.iloc[0]['status_prev']}, {df_train.iloc[0]['status_current']}, {df_train.iloc[0]['status_next']}")
 
 
 if __name__ == '__main__':

@@ -57,8 +57,8 @@ model = dict(
 
 # ------------------- 2. 数据定义 (沿用 V5) -------------------
 input_size = (288, 512)
-original_size = (1080, 1920)
-data_root = './data/loveall_tennis_gauss_heatmap'
+original_size = (720, 1280)
+data_root = './data/benchmark'
 
 pipeline = [
     dict(type='LoadMultiImagesFromPaths', to_rgb=True),
@@ -73,7 +73,7 @@ pipeline = [
 ]
 
 data = dict(
-    samples_per_gpu=4, # WASB 显存开销大，如果爆显存请调至 2
+    samples_per_gpu=2, # WASB 显存开销大，如果爆显存请调至 2
     workers_per_gpu=4,
     train=dict(
         type='TennisDataset',

@@ -12,5 +12,5 @@ class TrackNetV4(nn.Module):
     def forward(self, x):
         features = self.backbone(x)
         refined_features = self.neck(features)
-        logits = self.head(refined_features, features['attention'])
+        logits = self.head(refined_features)
         return logits
