@@ -4,7 +4,7 @@ import numpy as np
 from scipy.spatial import distance
 from pathlib import Path
 
-def compute_metrics_with_scaling(csv_path, gt_dict, min_dist=15):
+def compute_metrics(csv_path, gt_dict, min_dist=5):
     """
     Calcule les métriques pour un CSV donné par rapport à un dictionnaire de vérité terrain.
     """
@@ -48,12 +48,21 @@ def compute_metrics_with_scaling(csv_path, gt_dict, min_dist=15):
     # 3. Calculs finaux
     eps = 1e-15
     fp = fp1 + fp2
+    total = tp + fp + tn + fn
+    accuracy = (tp + tn) / (total + eps)
     precision = tp / (tp + fp + eps)
     recall = tp / (tp + fn + eps)
     f1 = 2 * precision * recall / (precision + recall + eps)
 
     return {
-        'TP': tp, 'FP1': fp1, 'FP2': fp2, 'FN': fn,
+        'Total': total,
+        'TP': tp,
+        'FP1': fp1,
+        'FP2': fp2,
+        'FP': fp,
+        'TN': tn,
+        'FN': fn,
+        'Accuracy': round(accuracy, 4),
         'Precision': round(precision, 4),
         'Recall': round(recall, 4),
         'F1-Score': round(f1, 4)
@@ -61,12 +70,12 @@ def compute_metrics_with_scaling(csv_path, gt_dict, min_dist=15):
 
 def main():
     # --- CONFIGURATION DES CHEMINS ---
-    base_dir = Path('./models_results/tracknetv5/threshold/')
-    video_id = 'event_4549_0'
-    json_path = './data/test/event_4549_0_selected_points.json'
+    base_dir = Path('./data/test')
+    video_id = 'video2'
+    json_path = './data/test/video2/video2_selected_points.json'
     
     # Liste des seuils à tester
-    thresholds = ['0.5', '0.6', '0.7', '0.8', '0.9']
+    thresholds = ['0.5']
     
     # 1. Charger le JSON une seule fois pour tout le test
     with open(json_path, 'r') as f:
@@ -80,10 +89,10 @@ def main():
 
     # 2. BOUCLE PRINCIPALE
     for thresh in thresholds:
-        csv_path = base_dir / f"v5_thresh_{thresh}" / video_id / f"{video_id}_data.csv"
+        csv_path = base_dir /video_id/ f"v2" / video_id / f"{video_id}_data.csv"
         
         if csv_path.exists():
-            res = compute_metrics_with_scaling(csv_path, gt_dict)
+            res = compute_metrics(csv_path, gt_dict)
             res['Thresh'] = thresh
             summary_results.append(res)
             print(f"✅ Seuil {thresh} traité : F1 = {res['F1-Score']}")
@@ -94,9 +103,8 @@ def main():
     if summary_results:
         final_df = pd.DataFrame(summary_results)
         # On réordonne pour que Thresh soit en premier
-        cols = ['Thresh', 'TP', 'FP1', 'FP2', 'FN', 'Precision', 'Recall', 'F1-Score']
         print("\n📊 --- TABLEAU RÉCAPITULATIF ---")
-        print(final_df[cols].to_string(index=False))
+        print(final_df.to_string(index=False))
         
         # Trouver le meilleur seuil
         best_f1 = final_df.loc[final_df['F1-Score'].idxmax()]

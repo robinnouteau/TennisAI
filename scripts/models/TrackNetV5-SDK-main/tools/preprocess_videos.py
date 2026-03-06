@@ -9,11 +9,11 @@ from pathlib import Path
 from tqdm import tqdm
 
 # --- CONFIGURATION GLOBALE ---
-BASE_DIR = './data/test/video3'
-INPUT_DIR = "./data/test/video3"
-TEMP_RESIZED_DIR = "./data/test/video3/resized_videos" # Doit être différent de INPUT_DIR
-JSON_OUTPUT_DIR = "./data/test/video3/output_jsons"
-WEIGHTS = "./weights/v2/tracknetv2_b2e30_adamw_lr1e-4/best_model.pth"
+BASE_DIR = './data/test'
+INPUT_DIR = "./data/test"
+TEMP_RESIZED_DIR = "./data/test/resized_videos" # Doit être différent de INPUT_DIR
+JSON_OUTPUT_DIR = "./data/test/output_jsons"
+WEIGHTS = "./weights/v2/tracknetv2/best_model.pth"
 ARCH = "v2"
 THRESHOLD = 0.5
 
@@ -114,14 +114,14 @@ def step3_csv_to_json(inference_results_dir, final_json_dir):
 # --- EXÉCUTION DU PIPELINE ---
 if __name__ == "__main__":
     # # 1. Préparation des vidéos
-    step1_resize_and_rename(INPUT_DIR, TEMP_RESIZED_DIR)
+    #step1_resize_and_rename(INPUT_DIR, TEMP_RESIZED_DIR)
     
     # # 2. Prédiction (TrackNet)
-    step2_run_tracknet()
+    #step2_run_tracknet()
     
     # 3. Génération des fichiers JSON finaux
     # Note: TrackNet crée un dossier nommé selon l'architecture et le seuil
-    inference_folder = os.path.join(TEMP_RESIZED_DIR, f"{ARCH}_thresh_{THRESHOLD}")
+    inference_folder = os.path.join(TEMP_RESIZED_DIR, f"{ARCH}")
     step3_csv_to_json(inference_folder, JSON_OUTPUT_DIR)
     
     print("\n🚀 PIPELINE TERMINÉ AVEC SUCCÈS !")
