@@ -1,0 +1,2594 @@
+[
+  {
+    "image_id": 72,
+    "Ball_x": 687,
+    "Ball_y": 122,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 73,
+    "Ball_x": 695,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 74,
+    "Ball_x": 702,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 75,
+    "Ball_x": 712,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 76,
+    "Ball_x": 720,
+    "Ball_y": 175,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 77,
+    "Ball_x": 730,
+    "Ball_y": 192,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 78,
+    "Ball_x": 740,
+    "Ball_y": 210,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 79,
+    "Ball_x": 750,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 80,
+    "Ball_x": 762,
+    "Ball_y": 255,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 81,
+    "Ball_x": 770,
+    "Ball_y": 247,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 82,
+    "Ball_x": 777,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 83,
+    "Ball_x": 785,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 84,
+    "Ball_x": 792,
+    "Ball_y": 235,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 85,
+    "Ball_x": 802,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 86,
+    "Ball_x": 810,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 87,
+    "Ball_x": 820,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 88,
+    "Ball_x": 830,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 89,
+    "Ball_x": 840,
+    "Ball_y": 235,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 90,
+    "Ball_x": 852,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 91,
+    "Ball_x": 865,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 92,
+    "Ball_x": 877,
+    "Ball_y": 250,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 93,
+    "Ball_x": 890,
+    "Ball_y": 260,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 94,
+    "Ball_x": 905,
+    "Ball_y": 272,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 95,
+    "Ball_x": 920,
+    "Ball_y": 282,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 96,
+    "Ball_x": 935,
+    "Ball_y": 300,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 97,
+    "Ball_x": 950,
+    "Ball_y": 317,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 99,
+    "Ball_x": 982,
+    "Ball_y": 364,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 102,
+    "Ball_x": 895,
+    "Ball_y": 275,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 103,
+    "Ball_x": 870,
+    "Ball_y": 247,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 104,
+    "Ball_x": 840,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 105,
+    "Ball_x": 812,
+    "Ball_y": 202,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 106,
+    "Ball_x": 795,
+    "Ball_y": 187,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 107,
+    "Ball_x": 772,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 108,
+    "Ball_x": 755,
+    "Ball_y": 165,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 109,
+    "Ball_x": 740,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 110,
+    "Ball_x": 727,
+    "Ball_y": 152,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 111,
+    "Ball_x": 715,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 112,
+    "Ball_x": 707,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 113,
+    "Ball_x": 697,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 114,
+    "Ball_x": 686,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 115,
+    "Ball_x": 679,
+    "Ball_y": 143,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 116,
+    "Ball_x": 670,
+    "Ball_y": 144,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 117,
+    "Ball_x": 662,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 118,
+    "Ball_x": 658,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 119,
+    "Ball_x": 650,
+    "Ball_y": 151,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 120,
+    "Ball_x": 645,
+    "Ball_y": 155,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 121,
+    "Ball_x": 640,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 122,
+    "Ball_x": 635,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 123,
+    "Ball_x": 630,
+    "Ball_y": 164,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 124,
+    "Ball_x": 628,
+    "Ball_y": 170,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 126,
+    "Ball_x": 622,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 127,
+    "Ball_x": 617,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 128,
+    "Ball_x": 615,
+    "Ball_y": 152,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 129,
+    "Ball_x": 612,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 130,
+    "Ball_x": 612,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 131,
+    "Ball_x": 610,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 132,
+    "Ball_x": 608,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 133,
+    "Ball_x": 607,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 134,
+    "Ball_x": 603,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 135,
+    "Ball_x": 602,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 136,
+    "Ball_x": 601,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 137,
+    "Ball_x": 598,
+    "Ball_y": 126,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 138,
+    "Ball_x": 597,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 139,
+    "Ball_x": 598,
+    "Ball_y": 122,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 141,
+    "Ball_x": 607,
+    "Ball_y": 119,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 142,
+    "Ball_x": 613,
+    "Ball_y": 116,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 143,
+    "Ball_x": 612,
+    "Ball_y": 115,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 146,
+    "Ball_x": 625,
+    "Ball_y": 115,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 147,
+    "Ball_x": 627,
+    "Ball_y": 115,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 148,
+    "Ball_x": 630,
+    "Ball_y": 115,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 149,
+    "Ball_x": 632,
+    "Ball_y": 117,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 150,
+    "Ball_x": 640,
+    "Ball_y": 120,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 151,
+    "Ball_x": 647,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 152,
+    "Ball_x": 650,
+    "Ball_y": 130,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 153,
+    "Ball_x": 657,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 154,
+    "Ball_x": 662,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 155,
+    "Ball_x": 667,
+    "Ball_y": 152,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 156,
+    "Ball_x": 675,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 157,
+    "Ball_x": 680,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 158,
+    "Ball_x": 687,
+    "Ball_y": 185,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 159,
+    "Ball_x": 692,
+    "Ball_y": 200,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 160,
+    "Ball_x": 700,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 161,
+    "Ball_x": 707,
+    "Ball_y": 235,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 162,
+    "Ball_x": 715,
+    "Ball_y": 255,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 163,
+    "Ball_x": 722,
+    "Ball_y": 280,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 164,
+    "Ball_x": 732,
+    "Ball_y": 305,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 165,
+    "Ball_x": 740,
+    "Ball_y": 307,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 166,
+    "Ball_x": 747,
+    "Ball_y": 302,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 167,
+    "Ball_x": 755,
+    "Ball_y": 295,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 168,
+    "Ball_x": 762,
+    "Ball_y": 292,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 169,
+    "Ball_x": 772,
+    "Ball_y": 287,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 170,
+    "Ball_x": 782,
+    "Ball_y": 287,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 171,
+    "Ball_x": 790,
+    "Ball_y": 285,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 172,
+    "Ball_x": 800,
+    "Ball_y": 285,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 173,
+    "Ball_x": 810,
+    "Ball_y": 287,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 174,
+    "Ball_x": 822,
+    "Ball_y": 290,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 175,
+    "Ball_x": 832,
+    "Ball_y": 297,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 176,
+    "Ball_x": 845,
+    "Ball_y": 302,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 177,
+    "Ball_x": 857,
+    "Ball_y": 312,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 178,
+    "Ball_x": 870,
+    "Ball_y": 325,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 179,
+    "Ball_x": 885,
+    "Ball_y": 337,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 180,
+    "Ball_x": 895,
+    "Ball_y": 352,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 181,
+    "Ball_x": 887,
+    "Ball_y": 325,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 182,
+    "Ball_x": 867,
+    "Ball_y": 282,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 183,
+    "Ball_x": 855,
+    "Ball_y": 252,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 184,
+    "Ball_x": 842,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 185,
+    "Ball_x": 830,
+    "Ball_y": 210,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 186,
+    "Ball_x": 822,
+    "Ball_y": 197,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 187,
+    "Ball_x": 815,
+    "Ball_y": 187,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 188,
+    "Ball_x": 807,
+    "Ball_y": 180,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 189,
+    "Ball_x": 805,
+    "Ball_y": 175,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 190,
+    "Ball_x": 800,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 191,
+    "Ball_x": 795,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 192,
+    "Ball_x": 792,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 193,
+    "Ball_x": 790,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 194,
+    "Ball_x": 787,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 195,
+    "Ball_x": 782,
+    "Ball_y": 170,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 196,
+    "Ball_x": 782,
+    "Ball_y": 170,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 197,
+    "Ball_x": 780,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 198,
+    "Ball_x": 777,
+    "Ball_y": 177,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 199,
+    "Ball_x": 777,
+    "Ball_y": 182,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 200,
+    "Ball_x": 775,
+    "Ball_y": 182,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 201,
+    "Ball_x": 772,
+    "Ball_y": 182,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 202,
+    "Ball_x": 772,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 203,
+    "Ball_x": 772,
+    "Ball_y": 165,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 204,
+    "Ball_x": 772,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 205,
+    "Ball_x": 770,
+    "Ball_y": 152,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 206,
+    "Ball_x": 767,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 207,
+    "Ball_x": 767,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 208,
+    "Ball_x": 767,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 209,
+    "Ball_x": 765,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 210,
+    "Ball_x": 766,
+    "Ball_y": 133,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 211,
+    "Ball_x": 766,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 212,
+    "Ball_x": 764,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 213,
+    "Ball_x": 764,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 214,
+    "Ball_x": 763,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 215,
+    "Ball_x": 764,
+    "Ball_y": 130,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 216,
+    "Ball_x": 762,
+    "Ball_y": 129,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 217,
+    "Ball_x": 761,
+    "Ball_y": 130,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 218,
+    "Ball_x": 761,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 223,
+    "Ball_x": 756,
+    "Ball_y": 102,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 224,
+    "Ball_x": 757,
+    "Ball_y": 98,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 225,
+    "Ball_x": 755,
+    "Ball_y": 92,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 226,
+    "Ball_x": 754,
+    "Ball_y": 91,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 227,
+    "Ball_x": 753,
+    "Ball_y": 89,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 228,
+    "Ball_x": 750,
+    "Ball_y": 82,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 229,
+    "Ball_x": 750,
+    "Ball_y": 81,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 240,
+    "Ball_x": 736,
+    "Ball_y": 83,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 241,
+    "Ball_x": 736,
+    "Ball_y": 83,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 242,
+    "Ball_x": 737,
+    "Ball_y": 86,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 243,
+    "Ball_x": 732,
+    "Ball_y": 87,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 244,
+    "Ball_x": 732,
+    "Ball_y": 92,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 245,
+    "Ball_x": 732,
+    "Ball_y": 97,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 246,
+    "Ball_x": 727,
+    "Ball_y": 102,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 247,
+    "Ball_x": 727,
+    "Ball_y": 112,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 248,
+    "Ball_x": 726,
+    "Ball_y": 119,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 249,
+    "Ball_x": 726,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 250,
+    "Ball_x": 724,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 251,
+    "Ball_x": 722,
+    "Ball_y": 148,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 252,
+    "Ball_x": 720,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 253,
+    "Ball_x": 717,
+    "Ball_y": 170,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 254,
+    "Ball_x": 717,
+    "Ball_y": 182,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 255,
+    "Ball_x": 715,
+    "Ball_y": 197,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 256,
+    "Ball_x": 712,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 257,
+    "Ball_x": 710,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 258,
+    "Ball_x": 710,
+    "Ball_y": 247,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 259,
+    "Ball_x": 705,
+    "Ball_y": 267,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 260,
+    "Ball_x": 702,
+    "Ball_y": 280,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 261,
+    "Ball_x": 705,
+    "Ball_y": 267,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 262,
+    "Ball_x": 702,
+    "Ball_y": 257,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 263,
+    "Ball_x": 702,
+    "Ball_y": 250,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 264,
+    "Ball_x": 702,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 265,
+    "Ball_x": 702,
+    "Ball_y": 235,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 266,
+    "Ball_x": 702,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 267,
+    "Ball_x": 700,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 268,
+    "Ball_x": 700,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 269,
+    "Ball_x": 700,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 270,
+    "Ball_x": 700,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 271,
+    "Ball_x": 700,
+    "Ball_y": 215,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 272,
+    "Ball_x": 697,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 273,
+    "Ball_x": 697,
+    "Ball_y": 215,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 274,
+    "Ball_x": 697,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 275,
+    "Ball_x": 695,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 276,
+    "Ball_x": 695,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 277,
+    "Ball_x": 695,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 278,
+    "Ball_x": 695,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 279,
+    "Ball_x": 693,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 280,
+    "Ball_x": 695,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 282,
+    "Ball_x": 691,
+    "Ball_y": 257,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 283,
+    "Ball_x": 702,
+    "Ball_y": 245,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 284,
+    "Ball_x": 712,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 285,
+    "Ball_x": 720,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 286,
+    "Ball_x": 727,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 287,
+    "Ball_x": 732,
+    "Ball_y": 197,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 288,
+    "Ball_x": 740,
+    "Ball_y": 192,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 289,
+    "Ball_x": 742,
+    "Ball_y": 187,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 290,
+    "Ball_x": 750,
+    "Ball_y": 180,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 291,
+    "Ball_x": 752,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 292,
+    "Ball_x": 755,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 293,
+    "Ball_x": 757,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 294,
+    "Ball_x": 760,
+    "Ball_y": 150,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 295,
+    "Ball_x": 762,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 296,
+    "Ball_x": 765,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 297,
+    "Ball_x": 765,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 298,
+    "Ball_x": 767,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 299,
+    "Ball_x": 770,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 300,
+    "Ball_x": 772,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 301,
+    "Ball_x": 772,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 302,
+    "Ball_x": 775,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 303,
+    "Ball_x": 777,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 304,
+    "Ball_x": 777,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 305,
+    "Ball_x": 777,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 306,
+    "Ball_x": 780,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 307,
+    "Ball_x": 782,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 308,
+    "Ball_x": 782,
+    "Ball_y": 145,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 309,
+    "Ball_x": 784,
+    "Ball_y": 150,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 310,
+    "Ball_x": 785,
+    "Ball_y": 155,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 311,
+    "Ball_x": 787,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 312,
+    "Ball_x": 786,
+    "Ball_y": 163,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 315,
+    "Ball_x": 790,
+    "Ball_y": 165,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 316,
+    "Ball_x": 792,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 317,
+    "Ball_x": 792,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 318,
+    "Ball_x": 792,
+    "Ball_y": 151,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 320,
+    "Ball_x": 795,
+    "Ball_y": 144,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 321,
+    "Ball_x": 797,
+    "Ball_y": 144,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 324,
+    "Ball_x": 792,
+    "Ball_y": 130,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 325,
+    "Ball_x": 789,
+    "Ball_y": 123,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 326,
+    "Ball_x": 786,
+    "Ball_y": 122,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 327,
+    "Ball_x": 782,
+    "Ball_y": 111,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 328,
+    "Ball_x": 778,
+    "Ball_y": 107,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 329,
+    "Ball_x": 775,
+    "Ball_y": 103,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 330,
+    "Ball_x": 771,
+    "Ball_y": 99,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 331,
+    "Ball_x": 769,
+    "Ball_y": 94,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 332,
+    "Ball_x": 764,
+    "Ball_y": 90,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 333,
+    "Ball_x": 761,
+    "Ball_y": 83,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 334,
+    "Ball_x": 755,
+    "Ball_y": 79,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 338,
+    "Ball_x": 736,
+    "Ball_y": 68,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 350,
+    "Ball_x": 670,
+    "Ball_y": 83,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 351,
+    "Ball_x": 660,
+    "Ball_y": 87,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 352,
+    "Ball_x": 652,
+    "Ball_y": 95,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 353,
+    "Ball_x": 645,
+    "Ball_y": 102,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 354,
+    "Ball_x": 637,
+    "Ball_y": 112,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 355,
+    "Ball_x": 627,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 356,
+    "Ball_x": 620,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 357,
+    "Ball_x": 610,
+    "Ball_y": 150,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 358,
+    "Ball_x": 602,
+    "Ball_y": 165,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 359,
+    "Ball_x": 590,
+    "Ball_y": 182,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 360,
+    "Ball_x": 580,
+    "Ball_y": 202,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 361,
+    "Ball_x": 570,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 362,
+    "Ball_x": 557,
+    "Ball_y": 245,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 363,
+    "Ball_x": 545,
+    "Ball_y": 270,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 364,
+    "Ball_x": 532,
+    "Ball_y": 295,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 365,
+    "Ball_x": 520,
+    "Ball_y": 325,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 366,
+    "Ball_x": 505,
+    "Ball_y": 360,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 367,
+    "Ball_x": 492,
+    "Ball_y": 390,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 368,
+    "Ball_x": 487,
+    "Ball_y": 380,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 369,
+    "Ball_x": 482,
+    "Ball_y": 367,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 370,
+    "Ball_x": 475,
+    "Ball_y": 355,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 371,
+    "Ball_x": 470,
+    "Ball_y": 347,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 372,
+    "Ball_x": 462,
+    "Ball_y": 337,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 373,
+    "Ball_x": 457,
+    "Ball_y": 330,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 374,
+    "Ball_x": 450,
+    "Ball_y": 322,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 375,
+    "Ball_x": 445,
+    "Ball_y": 317,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 376,
+    "Ball_x": 437,
+    "Ball_y": 312,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 377,
+    "Ball_x": 432,
+    "Ball_y": 310,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 378,
+    "Ball_x": 425,
+    "Ball_y": 307,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 379,
+    "Ball_x": 420,
+    "Ball_y": 307,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 380,
+    "Ball_x": 412,
+    "Ball_y": 307,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 381,
+    "Ball_x": 407,
+    "Ball_y": 310,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 382,
+    "Ball_x": 400,
+    "Ball_y": 315,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 383,
+    "Ball_x": 392,
+    "Ball_y": 320,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 384,
+    "Ball_x": 387,
+    "Ball_y": 330,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 385,
+    "Ball_x": 382,
+    "Ball_y": 340,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 386,
+    "Ball_x": 375,
+    "Ball_y": 350,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 387,
+    "Ball_x": 370,
+    "Ball_y": 362,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 388,
+    "Ball_x": 362,
+    "Ball_y": 377,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 389,
+    "Ball_x": 360,
+    "Ball_y": 392,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 390,
+    "Ball_x": 355,
+    "Ball_y": 412,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 391,
+    "Ball_x": 350,
+    "Ball_y": 432,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 392,
+    "Ball_x": 345,
+    "Ball_y": 452,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 393,
+    "Ball_x": 340,
+    "Ball_y": 475,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 394,
+    "Ball_x": 337,
+    "Ball_y": 500,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 395,
+    "Ball_x": 348,
+    "Ball_y": 484,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 397,
+    "Ball_x": 405,
+    "Ball_y": 380,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 398,
+    "Ball_x": 430,
+    "Ball_y": 337,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 399,
+    "Ball_x": 450,
+    "Ball_y": 302,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 400,
+    "Ball_x": 472,
+    "Ball_y": 270,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 401,
+    "Ball_x": 492,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 402,
+    "Ball_x": 507,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 403,
+    "Ball_x": 525,
+    "Ball_y": 200,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 404,
+    "Ball_x": 537,
+    "Ball_y": 185,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 405,
+    "Ball_x": 552,
+    "Ball_y": 170,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 406,
+    "Ball_x": 567,
+    "Ball_y": 157,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 407,
+    "Ball_x": 577,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 408,
+    "Ball_x": 587,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 409,
+    "Ball_x": 597,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 410,
+    "Ball_x": 606,
+    "Ball_y": 129,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 411,
+    "Ball_x": 615,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 412,
+    "Ball_x": 622,
+    "Ball_y": 122,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 413,
+    "Ball_x": 630,
+    "Ball_y": 120,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 414,
+    "Ball_x": 637,
+    "Ball_y": 117,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 415,
+    "Ball_x": 642,
+    "Ball_y": 117,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 416,
+    "Ball_x": 650,
+    "Ball_y": 120,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 417,
+    "Ball_x": 657,
+    "Ball_y": 120,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 418,
+    "Ball_x": 662,
+    "Ball_y": 122,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 419,
+    "Ball_x": 667,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 420,
+    "Ball_x": 672,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 421,
+    "Ball_x": 677,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 422,
+    "Ball_x": 682,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 423,
+    "Ball_x": 687,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 424,
+    "Ball_x": 692,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 425,
+    "Ball_x": 695,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 426,
+    "Ball_x": 697,
+    "Ball_y": 155,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 427,
+    "Ball_x": 702,
+    "Ball_y": 160,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 428,
+    "Ball_x": 707,
+    "Ball_y": 167,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 429,
+    "Ball_x": 707,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 430,
+    "Ball_x": 710,
+    "Ball_y": 177,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 431,
+    "Ball_x": 715,
+    "Ball_y": 185,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 432,
+    "Ball_x": 715,
+    "Ball_y": 185,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 433,
+    "Ball_x": 720,
+    "Ball_y": 175,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 434,
+    "Ball_x": 722,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 435,
+    "Ball_x": 722,
+    "Ball_y": 160,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 436,
+    "Ball_x": 725,
+    "Ball_y": 152,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 437,
+    "Ball_x": 725,
+    "Ball_y": 147,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 438,
+    "Ball_x": 725,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 439,
+    "Ball_x": 727,
+    "Ball_y": 140,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 440,
+    "Ball_x": 730,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 441,
+    "Ball_x": 734,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 442,
+    "Ball_x": 736,
+    "Ball_y": 133,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 443,
+    "Ball_x": 734,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 444,
+    "Ball_x": 738,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 445,
+    "Ball_x": 739,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 446,
+    "Ball_x": 741,
+    "Ball_y": 131,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 447,
+    "Ball_x": 744,
+    "Ball_y": 130,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 448,
+    "Ball_x": 746,
+    "Ball_y": 128,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 449,
+    "Ball_x": 747,
+    "Ball_y": 127,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 450,
+    "Ball_x": 753,
+    "Ball_y": 126,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 451,
+    "Ball_x": 755,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 452,
+    "Ball_x": 758,
+    "Ball_y": 124,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 453,
+    "Ball_x": 761,
+    "Ball_y": 123,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 454,
+    "Ball_x": 765,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 455,
+    "Ball_x": 770,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 456,
+    "Ball_x": 773,
+    "Ball_y": 125,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 457,
+    "Ball_x": 778,
+    "Ball_y": 126,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 458,
+    "Ball_x": 780,
+    "Ball_y": 129,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 459,
+    "Ball_x": 785,
+    "Ball_y": 132,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 460,
+    "Ball_x": 787,
+    "Ball_y": 135,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 461,
+    "Ball_x": 792,
+    "Ball_y": 137,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 462,
+    "Ball_x": 797,
+    "Ball_y": 142,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 463,
+    "Ball_x": 802,
+    "Ball_y": 150,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 464,
+    "Ball_x": 807,
+    "Ball_y": 155,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 465,
+    "Ball_x": 812,
+    "Ball_y": 162,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 466,
+    "Ball_x": 820,
+    "Ball_y": 172,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 467,
+    "Ball_x": 825,
+    "Ball_y": 180,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 469,
+    "Ball_x": 835,
+    "Ball_y": 200,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 470,
+    "Ball_x": 840,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 471,
+    "Ball_x": 845,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 472,
+    "Ball_x": 852,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 473,
+    "Ball_x": 857,
+    "Ball_y": 252,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 474,
+    "Ball_x": 862,
+    "Ball_y": 255,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 475,
+    "Ball_x": 865,
+    "Ball_y": 250,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 476,
+    "Ball_x": 865,
+    "Ball_y": 245,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 477,
+    "Ball_x": 867,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 478,
+    "Ball_x": 870,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 479,
+    "Ball_x": 872,
+    "Ball_y": 230,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 480,
+    "Ball_x": 875,
+    "Ball_y": 227,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 481,
+    "Ball_x": 875,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 482,
+    "Ball_x": 877,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 483,
+    "Ball_x": 880,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 484,
+    "Ball_x": 882,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 485,
+    "Ball_x": 882,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 486,
+    "Ball_x": 885,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 487,
+    "Ball_x": 887,
+    "Ball_y": 227,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 488,
+    "Ball_x": 887,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 489,
+    "Ball_x": 890,
+    "Ball_y": 237,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 490,
+    "Ball_x": 892,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 491,
+    "Ball_x": 892,
+    "Ball_y": 247,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 492,
+    "Ball_x": 896,
+    "Ball_y": 257,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 493,
+    "Ball_x": 898,
+    "Ball_y": 265,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 494,
+    "Ball_x": 900,
+    "Ball_y": 274,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 495,
+    "Ball_x": 899,
+    "Ball_y": 287,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 496,
+    "Ball_x": 902,
+    "Ball_y": 297,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 499,
+    "Ball_x": 870,
+    "Ball_y": 272,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 500,
+    "Ball_x": 852,
+    "Ball_y": 260,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 501,
+    "Ball_x": 835,
+    "Ball_y": 247,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 502,
+    "Ball_x": 820,
+    "Ball_y": 242,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 503,
+    "Ball_x": 805,
+    "Ball_y": 232,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 504,
+    "Ball_x": 790,
+    "Ball_y": 225,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 505,
+    "Ball_x": 777,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 506,
+    "Ball_x": 765,
+    "Ball_y": 215,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 507,
+    "Ball_x": 752,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 508,
+    "Ball_x": 737,
+    "Ball_y": 210,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 509,
+    "Ball_x": 727,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 510,
+    "Ball_x": 715,
+    "Ball_y": 205,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 511,
+    "Ball_x": 705,
+    "Ball_y": 205,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 512,
+    "Ball_x": 692,
+    "Ball_y": 205,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 513,
+    "Ball_x": 682,
+    "Ball_y": 202,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 514,
+    "Ball_x": 672,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 515,
+    "Ball_x": 662,
+    "Ball_y": 210,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 516,
+    "Ball_x": 655,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 517,
+    "Ball_x": 645,
+    "Ball_y": 215,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 518,
+    "Ball_x": 635,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 519,
+    "Ball_x": 627,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 520,
+    "Ball_x": 625,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 521,
+    "Ball_x": 622,
+    "Ball_y": 215,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 522,
+    "Ball_x": 622,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 523,
+    "Ball_x": 622,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 524,
+    "Ball_x": 622,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 525,
+    "Ball_x": 622,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 526,
+    "Ball_x": 622,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 527,
+    "Ball_x": 622,
+    "Ball_y": 207,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 528,
+    "Ball_x": 622,
+    "Ball_y": 210,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 529,
+    "Ball_x": 622,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 530,
+    "Ball_x": 622,
+    "Ball_y": 212,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 531,
+    "Ball_x": 622,
+    "Ball_y": 217,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 532,
+    "Ball_x": 620,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 533,
+    "Ball_x": 622,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 534,
+    "Ball_x": 621,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 535,
+    "Ball_x": 622,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 536,
+    "Ball_x": 621,
+    "Ball_y": 219,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 537,
+    "Ball_x": 621,
+    "Ball_y": 220,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 538,
+    "Ball_x": 620,
+    "Ball_y": 221,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 539,
+    "Ball_x": 619,
+    "Ball_y": 223,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 540,
+    "Ball_x": 619,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 541,
+    "Ball_x": 618,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 542,
+    "Ball_x": 619,
+    "Ball_y": 221,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 543,
+    "Ball_x": 618,
+    "Ball_y": 221,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 544,
+    "Ball_x": 619,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 545,
+    "Ball_x": 617,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 546,
+    "Ball_x": 619,
+    "Ball_y": 222,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 547,
+    "Ball_x": 618,
+    "Ball_y": 223,
+    "Ball_type": 0
+  },
+  {
+    "image_id": 548,
+    "Ball_x": 618,
+    "Ball_y": 223,
+    "Ball_type": 0
+  }
+]
